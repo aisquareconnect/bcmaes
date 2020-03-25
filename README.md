@@ -1,11 +1,12 @@
 <img src="Logo AI Square Connect.png" align="right" width="30%"/>
 
-# Code and data for Bayesian CMAES
+# Code and data for the Bayesian approach of CMA ES
 
 ## Content
 We provided herein 
-- the python code 
-used for the paper 'Bayesian CMAES'
+
+- the ptyhon code 
+used for the paper 'BCMA-ES: A Bayesian approach to CMA-ES'
 
 ## Get Feedback
 - Feedback on the method is welcome. Please email me at the email provided in the paper
