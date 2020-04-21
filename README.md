@@ -5,7 +5,7 @@
 ## Content
 We provided herein 
 
-- the ptyhon code 
+- the python code 
 used for the paper 'BCMA-ES: A Bayesian approach to CMA-ES'
 
 ## Get Feedback
